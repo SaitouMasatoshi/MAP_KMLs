@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="toile" id="toile">
+	<SimpleField name="ADDRESS1" type="string"></SimpleField>
+	<SimpleField name="ADDRESS2" type="string"></SimpleField>
+	<SimpleField name="MEMO1" type="string"></SimpleField>
+</Schema>
+<Folder><name>toile</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">旭</SimpleData>
+		<SimpleData name="ADDRESS2">鶴ケ峰２－１８</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.547476119716,35.4759133029159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">磯子</SimpleData>
+		<SimpleData name="ADDRESS2">原町１０－１１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.627364480977,35.415174406364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">磯子</SimpleData>
+		<SimpleData name="ADDRESS2">新磯子町３８</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.643068023785,35.4024230527737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">磯子</SimpleData>
+		<SimpleData name="ADDRESS2">新杉田町８－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.620986664144,35.3854807911617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">磯子</SimpleData>
+		<SimpleData name="ADDRESS2">森１－１－１</SimpleData>
+		<SimpleData name="MEMO1">磯子駅前</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.618154891253,35.4003579028581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">磯子</SimpleData>
+		<SimpleData name="ADDRESS2">杉田２－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.615541003839,35.3839296408408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">磯子</SimpleData>
+		<SimpleData name="ADDRESS2">東町１６－１</SimpleData>
+		<SimpleData name="MEMO1">根岸駅前</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.635291392498,35.4158114497178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">磯子</SimpleData>
+		<SimpleData name="ADDRESS2">洋光台３－１３</SimpleData>
+		<SimpleData name="MEMO1">洋光台駅前</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.596277243246,35.3788953482904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">栄</SimpleData>
+		<SimpleData name="ADDRESS2">笠間町二丁目1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.533400631814,35.3558907238427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">栄</SimpleData>
+		<SimpleData name="ADDRESS2">桂町３０３－１９</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.554387601033,35.3645065758064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">栄</SimpleData>
+		<SimpleData name="ADDRESS2">小菅ケ谷１－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.550935728772,35.3674925557327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">金沢</SimpleData>
+		<SimpleData name="ADDRESS2">釜利谷東１－５６</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.6131183705,35.3430095142403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">金沢</SimpleData>
+		<SimpleData name="ADDRESS2">釜利谷東２－１地先</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.621066645439,35.3417743335841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">金沢</SimpleData>
+		<SimpleData name="ADDRESS2">瀬戸４－４</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.622299267911,35.3310904746767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">金沢</SimpleData>
+		<SimpleData name="ADDRESS2">谷津町３６１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.622686184573,35.3420271035392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">戸塚</SimpleData>
+		<SimpleData name="ADDRESS2">戸塚町１２－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.534423207025,35.4010175396869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">戸塚</SimpleData>
+		<SimpleData name="ADDRESS2">品濃町６９２</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.557098510526,35.4306995962591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">戸塚</SimpleData>
+		<SimpleData name="ADDRESS2">品濃町７４０－９</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.55628117769,35.4309040552249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">港南</SimpleData>
+		<SimpleData name="ADDRESS2">日野中央１－１３</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.58690933562,35.3911419430333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">港北</SimpleData>
+		<SimpleData name="ADDRESS2">新横浜３－１５</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.619064381069,35.5123224610793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">港北</SimpleData>
+		<SimpleData name="ADDRESS2">大倉山１－１－１</SimpleData>
+		<SimpleData name="MEMO1">大倉山駅前</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.629941850596,35.521942032023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">神奈川</SimpleData>
+		<SimpleData name="ADDRESS2">子安通２－２５９</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.654775356475,35.4870675824795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">神奈川</SimpleData>
+		<SimpleData name="ADDRESS2">白楽１２－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.629541914157,35.482918964981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">神奈川</SimpleData>
+		<SimpleData name="ADDRESS2">片倉１－３３</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.607110222264,35.4904552517018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">瀬谷</SimpleData>
+		<SimpleData name="ADDRESS2">中央１－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.483040865233,35.4702462170228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">西</SimpleData>
+		<SimpleData name="ADDRESS2">霞ケ丘６４</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.616353158846,35.4438196778792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">西</SimpleData>
+		<SimpleData name="ADDRESS2">高島２－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.623293490291,35.459839120597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">西</SimpleData>
+		<SimpleData name="ADDRESS2">高島２－１６</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.623366955298,35.4649774316465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">西</SimpleData>
+		<SimpleData name="ADDRESS2">高島２－１６</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.623057846688,35.4657579451998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">西</SimpleData>
+		<SimpleData name="ADDRESS2">浅間町１－１６－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.61171737774,35.4652946087541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">西</SimpleData>
+		<SimpleData name="ADDRESS2">南幸１－４</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.620940258659,35.4662812472906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">西</SimpleData>
+		<SimpleData name="ADDRESS2">南浅間町２５</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.605962646266,35.4543723620312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">西</SimpleData>
+		<SimpleData name="ADDRESS2">南浅間町３１－１０</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.60685447979,35.4561928221899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">青葉</SimpleData>
+		<SimpleData name="ADDRESS2">荏田町２３６０－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.551470780934,35.5589871514487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">青葉</SimpleData>
+		<SimpleData name="ADDRESS2">青葉台１－８－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.516609822033,35.5437610998425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">青葉</SimpleData>
+		<SimpleData name="ADDRESS2">藤が丘１－２９－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.528151862212,35.5442641046488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中</SimpleData>
+		<SimpleData name="ADDRESS2">港町１－２－２</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.637604388106,35.4430580278107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中</SimpleData>
+		<SimpleData name="ADDRESS2">港町２－９</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.636048380659,35.4441029078788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中</SimpleData>
+		<SimpleData name="ADDRESS2">桜木町１－１－５３</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.631303275621,35.4521859727931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中</SimpleData>
+		<SimpleData name="ADDRESS2">山下町１１２</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.648053475331,35.4410090204548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中</SimpleData>
+		<SimpleData name="ADDRESS2">山下町２０３</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.643685099951,35.4439865042575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中</SimpleData>
+		<SimpleData name="ADDRESS2">山下町８</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.648697876507,35.4456125070259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中</SimpleData>
+		<SimpleData name="ADDRESS2">山下町８０－３</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.648087822707,35.4440301471153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中</SimpleData>
+		<SimpleData name="ADDRESS2">山手町１８４</SimpleData>
+		<SimpleData name="MEMO1">谷戸橋</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.65180201498,35.4420984191858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中</SimpleData>
+		<SimpleData name="ADDRESS2">小港町１－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.664306336718,35.4327537086616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中</SimpleData>
+		<SimpleData name="ADDRESS2">石川町１－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.645086512553,35.4391288799459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中</SimpleData>
+		<SimpleData name="ADDRESS2">石川町５－２０９－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.63701102287,35.4369216891372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中</SimpleData>
+		<SimpleData name="ADDRESS2">長者町９－１７５</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.628021276576,35.4449195247433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中</SimpleData>
+		<SimpleData name="ADDRESS2">本牧ふ頭３－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.667083136453,35.4338599809656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中</SimpleData>
+		<SimpleData name="ADDRESS2">末吉町２－２８</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.626435835612,35.4418620417428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">鶴見</SimpleData>
+		<SimpleData name="ADDRESS2">生麦５－１－３</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.672935577633,35.5003365883448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">鶴見</SimpleData>
+		<SimpleData name="ADDRESS2">豊岡町１－１６</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.675833140979,35.5086754582333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">都筑</SimpleData>
+		<SimpleData name="ADDRESS2">中川１－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.571033480685,35.5622178508651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">都筑</SimpleData>
+		<SimpleData name="ADDRESS2">中川中央１－１地先</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.577885662114,35.5544117519706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">都筑</SimpleData>
+		<SimpleData name="ADDRESS2">仲町台１－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.588478034215,35.5351063905433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">南</SimpleData>
+		<SimpleData name="ADDRESS2">井土ケ谷下町２１４</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.601701618811,35.4340521993952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">南</SimpleData>
+		<SimpleData name="ADDRESS2">浦舟町１－１９－２</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.62946579811,35.4347004040272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">南</SimpleData>
+		<SimpleData name="ADDRESS2">新川町１－２</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.622955790193,35.43610706219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">南</SimpleData>
+		<SimpleData name="ADDRESS2">大岡２－３２－７</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.602494311429,35.4238542833734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">南</SimpleData>
+		<SimpleData name="ADDRESS2">大橋町１－１</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.605186910175,35.4287116963592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">南</SimpleData>
+		<SimpleData name="ADDRESS2">白金町２－３３</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.617194932952,35.4376178497997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">保土ケ谷</SimpleData>
+		<SimpleData name="ADDRESS2">岩井町１４３</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.600248331934,35.4458776664982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">保土ケ谷</SimpleData>
+		<SimpleData name="ADDRESS2">仏向町２</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.586749208721,35.4637680942769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">緑</SimpleData>
+		<SimpleData name="ADDRESS2">鴨居１－１６</SimpleData>
+		<SimpleData name="MEMO1">鴨居駅前</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.567256942241,35.5117284336996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">緑</SimpleData>
+		<SimpleData name="ADDRESS2">十日市場町８２５</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.516740196524,35.5264073649615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">緑</SimpleData>
+		<SimpleData name="ADDRESS2">中山町３５０－５</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.540235451751,35.5145810990275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">鶴見区</SimpleData>
+		<SimpleData name="ADDRESS2">潮田町１－１先</SimpleData>
+		<SimpleData name="MEMO1">潮見橋</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.680389436641,35.5037308867291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">神奈川区</SimpleData>
+		<SimpleData name="ADDRESS2">東神奈川１－１３－１２</SimpleData>
+		<SimpleData name="MEMO1">東神奈川駅東口</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.633950192801,35.4774214014234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">西区</SimpleData>
+		<SimpleData name="ADDRESS2">西平沼町８－１</SimpleData>
+		<SimpleData name="MEMO1">西横浜駅前</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.607630834822,35.4533775231211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中区</SimpleData>
+		<SimpleData name="ADDRESS2">本牧大里町１－３０</SimpleData>
+		<SimpleData name="MEMO1">三渓園前</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.664167810267,35.4196209727989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">都筑区</SimpleData>
+		<SimpleData name="ADDRESS2">北山田１－６－１１</SimpleData>
+		<SimpleData name="MEMO1">北山田駅前</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.592627178158,35.5612482137291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">戸塚区</SimpleData>
+		<SimpleData name="ADDRESS2">戸塚町１６－１８</SimpleData>
+		<SimpleData name="MEMO1">戸塚駅西口</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.533446922288,35.4004724727365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">鶴見</SimpleData>
+		<SimpleData name="ADDRESS2">鶴見中央１－３０－２２</SimpleData>
+		<SimpleData name="MEMO1">京急鶴見駅前</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.677889579887,35.5073835891849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">西</SimpleData>
+		<SimpleData name="ADDRESS2">平沼２－７－２</SimpleData>
+		<SimpleData name="MEMO1">西平沼橋</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.617692349596,35.4576325707767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">西</SimpleData>
+		<SimpleData name="ADDRESS2">東ケ丘５０</SimpleData>
+		<SimpleData name="MEMO1">野毛山プール前</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.623571564879,35.4453409834686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">中</SimpleData>
+		<SimpleData name="ADDRESS2">内田町１－１</SimpleData>
+		<SimpleData name="MEMO1">弁天橋</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.632905777978,35.4494279915988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">港北</SimpleData>
+		<SimpleData name="ADDRESS2">日吉２－１</SimpleData>
+		<SimpleData name="MEMO1">日吉駅前</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.646574904828,35.5529618914945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">港北</SimpleData>
+		<SimpleData name="ADDRESS2">新横浜２－１</SimpleData>
+		<SimpleData name="MEMO1">新横浜駅北口</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.617885525801,35.5085572251676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#toile">
+		<SimpleData name="ADDRESS1">青葉</SimpleData>
+		<SimpleData name="ADDRESS2">市ケ尾町１１５６－１</SimpleData>
+		<SimpleData name="MEMO1">市が尾駅前</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.541471992658,35.5513240384887</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
